@@ -3,6 +3,9 @@ RENCANA KONTEN SAYA
 - JavaScript
   * ES6
   * Framework JavaScript
+    ^ Vue
+    ^ React
 - PHP
+- Phyton
 - Struktur data dasar
 - WordPress
