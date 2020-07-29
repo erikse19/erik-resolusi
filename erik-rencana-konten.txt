@@ -1,5 +1,7 @@
 RENCANA KONTEN SAYA
 - Bootstrap
 - JavaScript
+  * ES6
+  * Framework JavaScript
 - PHP
 - WordPress
