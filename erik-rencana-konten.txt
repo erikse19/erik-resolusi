@@ -1,0 +1,5 @@
+RENCANA KONTEN SAYA
+- Bootstrap
+- JavaScript
+- PHP
+- WordPress
