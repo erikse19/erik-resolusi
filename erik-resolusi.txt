@@ -1,5 +1,5 @@
 RESOLUSI
 - Konsisten untuk membuat konten 2x seminggu
-- Membuat platform untuk pengelolaan video
 - Membuat website tutorial seputar WordPress
 - Kolaborasi dengan lebih banyak expert
+- Membuat video tutorial
