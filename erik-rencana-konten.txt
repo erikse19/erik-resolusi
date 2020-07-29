@@ -4,6 +4,7 @@ RENCANA KONTEN SAYA
   * ES6
   * Framework JavaScript
     ^ Vue
+    ^ React
 - PHP
 - Phyton
 - Struktur data dasar
